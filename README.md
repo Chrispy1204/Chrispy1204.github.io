@@ -1,3 +1,4 @@
+Christopher Perng
 # Data Analyst | Data Scientist | Business Intelligence Analyst
 
 ### Education
