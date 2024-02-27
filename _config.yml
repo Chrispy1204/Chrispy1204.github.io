@@ -1,9 +1,16 @@
-title: Christopher Perng
-logo: /image/headshot_circle.png
-description: >
-  Data Analyst | Data Scientist <br>
-  MS in Operations Research <br>
-  University of Texas at Austin <br>
+---
+layout: default
+---
+
+# Christopher Perng
+
+<img src="/image/headshot_circle.png" alt="Headshot" style="width: 200px; height: auto; float: left; margin-right: 20px;">
+
+## Description
+
+Data Analyst | Data Scientist <br>
+MS in Operations Research <br>
+University of Texas at Austin
 
 social_icons:
   - title: Email
