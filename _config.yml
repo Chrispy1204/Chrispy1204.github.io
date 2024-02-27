@@ -1,7 +1,21 @@
 title: Christopher Perng
 logo: /image/headshot_circle.png
 description: >
+  Data Analyst | Data Scientist <br>
+  MS in Operations Research <br>
   University of Texas at Austin <br>
-  Operations Research Industrial Engineering
+
+social_icons:
+  - title: Email
+    icon: mail
+    url: mailto:cp1204@utexas.edu
+  - title: LinkedIn
+    icon: linkedin
+    url: www.linkedin.com/in/chrisp2024/
+  - title: GitHub
+    icon: github
+    url: github.com/Chrispy1204
+
+
 show_downloads: true
 theme: jekyll-theme-minimal
