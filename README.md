@@ -7,10 +7,7 @@ Christopher Perng
 - BS Industrial Engineering and Management @ National Taipei University of Technology
 
 ### Work Experience
-** Data Science Intern @ Taelor AI
+**Data Science Intern @ Taelor AI**
 - Cohort Analysis
 - Customer Churn prediction
 
-### Projects
-- EEG
-- 
